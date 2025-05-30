@@ -12,6 +12,9 @@
 5. **Worldwide Support** Capable of validating numbers from any country, making it suitable for global use.
 
 ## Contact:
-If you're interested, contact me via Telegram: [@alexrony21](https://t.me/alexrony21)
+If you're interested, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+
+## Note:
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
 
 Thanks
