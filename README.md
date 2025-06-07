@@ -5,11 +5,20 @@
 
 ## Features Explained:
 
-1. **Accurate Checking** Validates numbers with high precision, ensuring accurate results for active and inactive WhatsApp accounts.
-2. **60 CPM (Checks Per Minute)**  Processes up to 60 numbers per minute, offering fast and efficient validation.
-3. **No WhatsApp Account Needed** Operates independently without requiring a personal or business WhatsApp account for validation.
-4. **Unlimited Checking** No restrictions on the number of checks, allowing unlimited usage for large-scale validation.
-5. **Worldwide Support** Capable of validating numbers from any country, making it suitable for global use.
+1. **Accurate Checking**
+2. **No WhatsApp Account Needed**
+3. **Unlimited Checking**
+4. **Worldwide Support**
+
+## Pricing
+
+| **Number of Checks** | **Price (USD)** | **Cost per 1,000** |
+| -------------------- | --------------- | ------------------ |
+| 50,000               | $22             | $0.44              |
+| 1,00,000             | $42             | $0.42              |
+| 2,50,000             | $100            | $0.40              |
+| 5,00,000             | $190            | $0.38              |
+| 10,00,000            | $360            | $0.36              |
 
 ## Contact:
 If you're interested, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
